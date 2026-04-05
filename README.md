@@ -12,21 +12,5 @@ A simple Minecraft mod built with the **Fabric** modding toolchain for version *
 2.  Download the latest version of **Fabric API** and place it in your `mods` folder.
 3.  Place the `omers-clock.jar` into your `mods` folder.
 
-## Development & Building
-This project uses the Fabric Loom Gradle plugin.
-
-### Build the Mod
-To build the JAR file, run:
-```powershell
-./gradlew build
-```
-The compiled JAR will be in `build/libs/`.
-
-### Run the Client
-To launch a development client with the mod loaded:
-```powershell
-./gradlew runClient
-```
-
 ## License
 This project is licensed under the **MIT License**.
